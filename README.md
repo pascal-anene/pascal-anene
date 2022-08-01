@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pascal-anene
 - 👀 I’m interested in Technology, Business and Impact
-- 🌱 I’m currently learning Full-Stack Web Development
+- 🌱 My Domain of Tech: Full-Stack | Data Engineering | Machine Learning. 
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me Github, LinkedIn
 
